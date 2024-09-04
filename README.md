@@ -3,6 +3,9 @@
 This repo is built as a demo for the Hierarchical data table which overlaps to different pages without header. 
 Please insert your file and try the lab
 
+![image](https://github.com/user-attachments/assets/0a3e3522-3785-42ce-899f-b56fc7c9700c)
+
+
 ## Prerequisites
 Before running the notebook, make sure you have the following installed:
 
