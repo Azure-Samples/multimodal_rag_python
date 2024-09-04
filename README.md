@@ -1,6 +1,6 @@
-# Running the Python notebook for Hierarchical data and multimodal RAG
+# Hierarchical data and multimodal RAG using Semantic Chunking and Langchain
 
-This repo is built as a demo for the Hierarchical data table which overlaps to different pages without header. 
+This repo is built as a demo for the Hierarchical data table which overlaps to different pages without header. It uses Langchain, Semantic Chunking, Azure Document intelligence and AI Search
 Please insert your file and try the lab
 
 ![image](https://github.com/user-attachments/assets/0a3e3522-3785-42ce-899f-b56fc7c9700c)
